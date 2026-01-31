@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+Hey! I’m Nishant Singh 👨‍💻
+A BTech student who enjoys building web apps and learning new technologies step by step.
 
-## Project info
+Currently learning full-stack development
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Interested in React, Node.js, and real-world projects
 
-## How can I edit this code?
+Always trying to write cleaner and better code
 
-There are several ways of editing your application.
+🛠 What I Used
 
-**Use Lovable**
+React – for building the UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+TypeScript – to write safer, more reliable code
 
-Changes made via Lovable will be committed automatically to this repo.
+Vite – for fast development and builds
 
-**Use your preferred IDE**
+Tailwind CSS – for styling
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+shadcn-ui – for ready-to-use UI components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🚀 Getting Started
 
-Follow these steps:
+If you want to run this project on your system, follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. Clone the repo
+git clone <YOUR_GITHUB_REPO_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Go into the project folder
+cd <PROJECT_FOLDER_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+3. Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+4. Start the app
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+The app will be running at:
 
-**Use GitHub Codespaces**
+http://localhost:5173
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📦 Scripts You’ll Use
+npm run dev      # start development server
+npm run build    # build for production
+npm run preview  # preview production build
 
-## What technologies are used for this project?
+🌍 Deployment
 
-This project is built with:
+You can easily deploy this project on platforms like Vercel or Netlify.
+I personally recommend Vercel because it’s simple and fast.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+✨ What This Project Has
 
-## How can I deploy this project?
+Clean and responsive UI
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simple project structure
 
-## Can I connect a custom domain to my Lovable project?
+Fast performance
 
-Yes, you can!
+Easy to understand code
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🤝 Contributions
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+If you have ideas or improvements, feel free to fork the repo and open a pull request.
+I’m always open to learning from others.
+
+📄 License
+
+This project is open-source and available under the MIT License.
