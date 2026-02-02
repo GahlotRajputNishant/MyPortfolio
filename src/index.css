@@ -198,3 +198,15 @@
     50% { border-color: transparent; }
   }
 }
+
+
+/* 🔥 Remove Lovable branding */
+a[href*="lovable"],
+img[src*="lovable"],
+iframe[src*="lovable"],
+#lovable-badge,
+[class*="lovable"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
