@@ -43,10 +43,10 @@ const Footer = () => {
             </a>
           </div>
 
-          {/* Made with love */}
+          /* {/* Made with love */}
           <p className="text-sm text-muted-foreground flex items-center gap-1">
             Made with <Heart className="w-4 h-4 text-destructive fill-destructive" /> in India
-          </p>
+          </p> */
         </div>
       </div>
     </footer>
